@@ -1,2 +1,2 @@
 # q-extensions
-Some useful Q function in implemented in C
+Some useful Q functions in implemented in C
